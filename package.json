@@ -1,0 +1,6 @@
+{
+ "name":"web3-project-discovery-tool",
+ "version":"1.0.0",
+ "description":"AI Web3 project discovery tool",
+ "main":"app.js"
+}
