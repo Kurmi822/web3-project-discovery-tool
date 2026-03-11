@@ -31,3 +31,11 @@ cd web3-project-discovery-tool
 npm install
 
 node app.js
+## Dataset Update
+
+The discovery tool now tracks multiple Web3 sectors:
+
+- ZK infrastructure
+- AI compute networks
+- Move ecosystem projects
+- Restaking protocols
