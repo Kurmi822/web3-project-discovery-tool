@@ -1,7 +1,9 @@
 {
  "projects":[
-  {"name":"Aztec","category":"ZK"},
-  {"name":"Gensyn","category":"AI"},
-  {"name":"Ritual","category":"AI"}
+  {"name":"Aztec","category":"ZK","status":"testnet"},
+  {"name":"Gensyn","category":"AI compute","status":"node program"},
+  {"name":"Ritual","category":"AI infrastructure","status":"early stage"},
+  {"name":"Movement","category":"Move ecosystem","status":"testnet"},
+  {"name":"EigenLayer","category":"Restaking","status":"mainnet"}
  ]
 }
