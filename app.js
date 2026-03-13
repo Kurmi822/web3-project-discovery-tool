@@ -33,3 +33,21 @@ function discoverProjects(){
 }
 
 discoverProjects();
+async function scan() {
+    return [
+        {
+            name: "ExampleChain",
+            sector: "ZK infrastructure",
+            airdrop: true,
+            status: "testnet"
+        },
+        {
+            name: "AIComputeNet",
+            sector: "AI compute",
+            airdrop: false,
+            status: "mainnet"
+        }
+    ];
+}
+
+module.exports = { scan };
