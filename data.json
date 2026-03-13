@@ -1,25 +1,41 @@
 {
- "projects":[
-  {"name":"Aztec","category":"ZK","status":"testnet"},
-  {"name":"Gensyn","category":"AI compute","status":"node program"},
-  {"name":"Ritual","category":"AI infrastructure","status":"early stage"},
-  {"name":"Movement","category":"Move ecosystem","status":"testnet"},
-  {"name":"EigenLayer","category":"Restaking","status":"mainnet"}
- ]
-}
-{
   "projects": [
     {
-      "name": "zkSync",
-      "sector": "ZK infrastructure",
-      "airdrop": true,
+      "name": "Aztec",
+      "category": "ZK",
       "status": "testnet"
     },
     {
-      "name": "og",
-      "sector": "Restaking",
-      "airdrop": false,
+      "name": "Gensyn",
+      "category": "AI compute",
+      "status": "node program"
+    },
+    {
+      "name": "Ritual",
+      "category": "AI infrastructure",
+      "status": "early stage"
+    },
+    {
+      "name": "Movement",
+      "category": "Move ecosystem",
+      "status": "testnet"
+    },
+    {
+      "name": "EigenLayer",
+      "category": "Restaking",
       "status": "mainnet"
+    },
+    {
+      "name": "zkSync",
+      "category": "ZK infrastructure",
+      "status": "testnet",
+      "airdrop": true
+    },
+    {
+      "name": "OG",
+      "category": "Restaking",
+      "status": "mainnet",
+      "airdrop": false
     }
   ]
 }
