@@ -1,6 +1,21 @@
 {
- "name":"web3-project-discovery-tool",
- "version":"1.0.0",
- "description":"AI Web3 project discovery tool",
- "main":"app.js"
+  "name": "web3-project-discovery-tool",
+  "version": "1.0.0",
+  "description": "AI powered Web3 project discovery and ecosystem scanner",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "scan": "node scanner.js"
+  },
+  "keywords": [
+    "web3",
+    "blockchain",
+    "ai",
+    "crypto",
+    "airdrop",
+    "discovery"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
 }
