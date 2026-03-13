@@ -7,3 +7,19 @@
   {"name":"EigenLayer","category":"Restaking","status":"mainnet"}
  ]
 }
+{
+  "projects": [
+    {
+      "name": "zkSync",
+      "sector": "ZK infrastructure",
+      "airdrop": true,
+      "status": "testnet"
+    },
+    {
+      "name": "og",
+      "sector": "Restaking",
+      "airdrop": false,
+      "status": "mainnet"
+    }
+  ]
+}
